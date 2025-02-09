@@ -1,9 +1,6 @@
-import { Inter, M_PLUS_1p } from "next/font/google"
-import localFont from "next/font/local"
+import { M_PLUS_1p } from "next/font/google"
 import "./globals.css"
-import type React from "react" // Import React
-
-const inter = Inter({ subsets: ["latin"] })
+import type React from "react"
 
 const mPlus1p = M_PLUS_1p({
   subsets: ["latin"],
