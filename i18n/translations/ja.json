@@ -26,18 +26,18 @@
     ],
     "companies": [
       {
-        "id": 1,
+        "id": 4,
         "name": "サムスン電機",
         "roles": [
           {
-            "id": 1,
+            "id": 4,
             "title": "機械エンジニア",
             "startDate": "2016-04",
             "endDate": "2018-03",
             "description": "組み込みシステムの開発に従事し、製品の性能向上に貢献しました。",
             "projects": [
               {
-                "id": 1,
+                "id": 4,
                 "name": "スマート家電制御システム",
                 "description": "IoTデバイスを活用したスマート家電制御システムの開発",
                 "technologies": ["C++", "Python", "MQTT", "AWS IoT"]
@@ -89,18 +89,18 @@
         ]
       },
       {
-        "id": 4,
+        "id": 1,
         "name": "Microsoft",
         "roles": [
           {
-            "id": 4,
+            "id": 1,
             "title": "プリンシパルソフトウェアエンジニア",
             "startDate": "2022-04",
             "endDate": "現在",
             "description": "Azure AIサービスの開発とグローバル展開を主導しています。",
             "projects": [
               {
-                "id": 4,
+                "id": 1,
                 "name": "Azure AI言語モデル最適化",
                 "description": "大規模言語モデルの推論最適化と多言語対応の実装",
                 "technologies": ["Python", "PyTorch", "ONNX", "Azure ML"]
