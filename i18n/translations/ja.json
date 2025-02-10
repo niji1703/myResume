@@ -9,17 +9,17 @@
     "education": [
       {
         "id": 1,
-        "institution": "東京大学",
+        "institution": "東京工業大学",
         "degree": "学士",
-        "field": "コンピューターサイエンス",
+        "field": "機械宇宙学科",
         "startDate": "2010-04",
         "endDate": "2014-03"
       },
       {
         "id": 2,
-        "institution": "京都大学",
+        "institution": "東京工業大学",
         "degree": "修士",
-        "field": "���工知能",
+        "field": "機械宇宙専攻",
         "startDate": "2014-04",
         "endDate": "2016-03"
       }
@@ -31,7 +31,7 @@
         "roles": [
           {
             "id": 1,
-            "title": "ソフトウェアエンジニア",
+            "title": "機械エンジニア",
             "startDate": "2016-04",
             "endDate": "2018-03",
             "description": "組み込みシステムの開発に従事し、製品の性能向上に貢献しました。",
@@ -52,7 +52,7 @@
         "roles": [
           {
             "id": 2,
-            "title": "シニアソフトウェアエンジニア",
+            "title": "機械エンジニア",
             "startDate": "2018-04",
             "endDate": "2020-03",
             "description": "音響技術を活用した革新的な製品開発に携わりました。",
